@@ -1,7 +1,4 @@
 public class MeuMetodo {
-    /**
-     * @param args
-     */
     public static void main(String[] args) {
         String primeiroNome = "Gilberto";
         String segundoNome = "Paiva";
