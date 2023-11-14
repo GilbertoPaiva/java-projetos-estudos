@@ -9,5 +9,7 @@ boolean verdadeira = true;
 
 anoFabricacao = 2018;
 
+System.out.println(meuNome + anoFabricacao + verdadeira);
+
 }
 }
