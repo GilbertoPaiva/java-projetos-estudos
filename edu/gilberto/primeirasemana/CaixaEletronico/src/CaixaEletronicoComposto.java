@@ -1,4 +1,4 @@
-public class CaizaEletronicoComposto {
+public class CaixaEletronicoComposto {
     public static void main(String[] args) {
         double saldo = 25.0;
         double valorSolicitado = 26.0;
